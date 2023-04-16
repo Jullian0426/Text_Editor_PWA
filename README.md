@@ -16,8 +16,7 @@ Run ```npm start``` in terminal.
 
 Use developer tools to see text you entered be saved in IndexedDB when the application loses focus. Press the install button to install the app.
 
-
-
+![alt text](./images/Capture.PNG)
 
 ## License
 
